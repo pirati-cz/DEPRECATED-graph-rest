@@ -1,0 +1,8 @@
+docs
+logs
+lib/*
+src/*.js
+node_modules
+test/*.js
+test/lib
+test/src/*.js
